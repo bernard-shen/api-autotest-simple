@@ -1,0 +1,14 @@
+{
+  "users_module": [
+    {"case1": {
+      "username": "",
+      "password": ""
+    }},
+    {"case2": {}}
+  ],
+  "flow": [
+    {},
+    {},
+    {}
+  ]
+}
